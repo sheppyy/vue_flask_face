@@ -1,0 +1,13 @@
+html, body, #app{
+    height: 100%;
+    
+}
+#app{
+    text-align: left !important;
+}
+.el-form-item__content{
+    line-height: 0 !important;
+}
+.el-dialog__body{
+    padding: 10px 20px !important;
+}

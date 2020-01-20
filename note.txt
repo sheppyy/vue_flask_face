@@ -1,0 +1,8 @@
+
+cnpm install -g @vue/cli
+cnpm install -g @vue/cli-init
+vue init webpack vue_flask_face
+
+cnpm install less less-loader --save-dev
+npm i element-ui -S
+cnpm install axios
